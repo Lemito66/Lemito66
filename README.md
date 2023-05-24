@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Systems and Computer Engineer
 
-Skills: REACT / JS / HTML / CSS / Python / Django / Php / C# / Java / MySQL / PostgreSQL / SQL Server
+Skills: REACT / JS / HTML / CSS / Python / Django / MySQL / PostgreSQL / SQL Server
 
 - 🔭 I’m currently working on Blog 
 - 📫 How to reach me: lemito66@gmail.com 
