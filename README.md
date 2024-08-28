@@ -20,7 +20,7 @@ I am a Systems and Computer Engineer with a passion for solving complex problems
 
 ## Skills
 - **Frontend:** React, JavaScript, HTML, CSS
-- **Backend:** Python, Django
+- **Backend:** Python, Django, .NET, C#
 - **Databases:** PL/SQL, Oracle, MySQL, PostgreSQL, SQL Server
 
 ## Current Projects
